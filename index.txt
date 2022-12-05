@@ -1,8 +1,14 @@
 index 
 
+<<<<<<< HEAD
 first commit
 
 second commit om main branch
 
 third commit om main branch
+=======
+first commit on second-branch
+
+second commit on second-branch
+>>>>>>> second-branch
 
