@@ -1,5 +1,10 @@
 style
 
+second commit on third-branch
+
+third commit on third-branch
+
+
 first commit on second-branch
 
 second commit on second-branch
